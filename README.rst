@@ -115,7 +115,7 @@ online test reports are built by
 
 Related projects
 ----------------
-
+https://github.com/SparkEdUAB
 -  `Blackboard <http://www.blackboard.com/>`__
 -  `Canvas <https://www.canvaslms.com/>`__
 -  `Chamilo <https://chamilo.org/es/>`__
@@ -125,6 +125,7 @@ Related projects
 -  `Privacy preserving data
    publishing <https://github.com/rain1/Privacy-Preserving-Data-Publishing>`__
 -  `Pygrades <https://bitbucket.org/jjauhien/pygrades>`__
+- `SparkEduAB <https://github.com/SparkEdUAB>`__
 -  `List on
    Wikipedia <https://en.wikipedia.org/wiki/List_of_learning_management_systems>`__
 
