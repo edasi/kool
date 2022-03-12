@@ -1,4 +1,4 @@
-.. image:: https://github.com/edasi/kool/blob/master/docs/source/_static/logo.png
+.. image:: https://github.com/edasi/kool/blob/main/docs/source/_static/logo.png
    :height: 100 px
    :width: 100 px
    :scale: 50 %
@@ -139,9 +139,9 @@ License
 Kool is licensed under `MIT
 License <https://github.com/edasi/kool/blob/master/LICENSE>`__
 
-.. |CircleCI| image:: https://circleci.com/gh/edasi/kool/tree/master.svg?style=shield
-   :target: https://circleci.com/gh/edasi/kool/tree/master
-.. |codecov| image:: https://codecov.io/gh/edasi/kool/branch/master/graph/badge.svg
+.. |CircleCI| image:: https://circleci.com/gh/edasi/kool/tree/main.svg?style=shield
+   :target: https://circleci.com/gh/edasi/kool/tree/main
+.. |codecov| image:: https://codecov.io/gh/edasi/kool/branch/main/graph/badge.svg
    :target: https://codecov.io/gh/edasi/kool
 .. |Documentation Status| image:: https://readthedocs.org/projects/kool-docs/badge/?version=latest
    :target: http://kool-docs.readthedocs.io/en/latest/?badge=latest
