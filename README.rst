@@ -141,7 +141,7 @@ License <https://github.com/edasi/kool/blob/master/LICENSE>`__
 
 .. |CircleCI| image:: https://circleci.com/gh/edasi/kool/tree/main.svg?style=shield
    :target: https://circleci.com/gh/edasi/kool/tree/main
-.. |codecov| image:: https://codecov.io/gh/edasi/kool/branch/main/graph/badge.svg
+.. |codecov| image:: https://codecov.io/gh/edasi/kool/branch/main/graph/badge.svg?token=Ubho83iVHr
    :target: https://codecov.io/gh/edasi/kool
 .. |Documentation Status| image:: https://readthedocs.org/projects/kool-docs/badge/?version=latest
    :target: http://kool-docs.readthedocs.io/en/latest/?badge=latest
